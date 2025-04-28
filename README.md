@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
