@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 ## Matrix
 |  |
@@ -74,5 +76,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
