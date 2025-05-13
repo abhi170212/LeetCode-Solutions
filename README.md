@@ -20,6 +20,7 @@
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -73,10 +75,12 @@
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +94,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
