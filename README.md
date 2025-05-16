@@ -13,6 +13,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String Matching
@@ -101,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
