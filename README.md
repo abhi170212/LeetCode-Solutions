@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
