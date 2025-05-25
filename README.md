@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -43,6 +44,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -60,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
