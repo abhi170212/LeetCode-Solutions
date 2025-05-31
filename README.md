@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 ## Bit Manipulation
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
