@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [3194-find-words-containing-character](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
