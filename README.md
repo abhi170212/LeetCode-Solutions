@@ -27,6 +27,7 @@
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0135-candy](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0135-candy) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Enumeration
 |  |
