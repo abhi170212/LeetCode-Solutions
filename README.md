@@ -72,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
@@ -137,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -144,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
