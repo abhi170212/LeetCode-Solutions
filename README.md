@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Matrix
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -113,6 +116,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -186,6 +190,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
 |  |
