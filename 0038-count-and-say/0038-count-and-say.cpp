@@ -1,24 +1,38 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        string curr = "1";
-        if (n == 1) return curr;
-        for (int i = 2; i <= n; i++) {
-            string next = "";
-            int cnt = 1;
-            char ele = curr[0];
-            for (int j = 1; j < curr.size(); j++) {
-                if (curr[j] == ele) {
-                    cnt++;
-                } else {
-                    next += to_string(cnt) + ele;
-                    ele = curr[j];
-                    cnt = 1;
+        if(n == 1)
+        {
+            return "1";
+        }
+        string p="1";
+        while(n>1)
+        {
+            string s="";
+            char t;
+            int c=0;
+            for(int j=0;j<p.size();j++)
+            {
+                if(j == 0)
+                {
+                    c++;
+                    t=p[j];
+                }
+                else if(p[j] == p[j-1])
+                {
+                    c++;
+                }
+                else if(p[j] != p[j-1])
+                {
+                    s+=to_string(c)+t;
+                    c=1;
+                    t=p[j];
                 }
             }
-            next += to_string(cnt) + ele;
-            curr = next;
+            s+=to_string(c)+t;
+            p=s;
+            n--;
         }
-        return curr;
+        return p;
     }
 };
