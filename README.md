@@ -203,4 +203,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
