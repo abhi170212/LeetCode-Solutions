@@ -23,6 +23,7 @@
 | [3194-find-words-containing-character](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
 |  |
 | ------- |
