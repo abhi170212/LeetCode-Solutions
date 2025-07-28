@@ -17,6 +17,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -62,6 +63,7 @@
 | [0029-divide-two-integers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -213,4 +216,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
