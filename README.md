@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -184,6 +187,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -219,5 +223,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
