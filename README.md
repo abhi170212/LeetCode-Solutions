@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -59,6 +60,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -78,6 +80,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
