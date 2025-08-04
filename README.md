@@ -97,6 +97,7 @@
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0520-detect-capital](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
