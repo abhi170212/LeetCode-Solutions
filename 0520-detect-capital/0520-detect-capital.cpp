@@ -2,7 +2,7 @@ class Solution {
 public:
     bool detectCapitalUse(string word) {
         int capitalCount = 0;
-        for (int i = 0; i < word.size(); i++) {
+        for (int i = 0; i <=word.size(); i++) {
             if (isupper(word[i])) {
                 capitalCount++;
             }
