@@ -35,6 +35,7 @@
 | [0002-add-two-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -70,6 +71,7 @@
 | [0029-divide-two-integers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -127,6 +129,7 @@
 | [0002-add-two-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
