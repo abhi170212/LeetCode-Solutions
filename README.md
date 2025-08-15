@@ -36,6 +36,7 @@
 | [0029-divide-two-integers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0900-reordered-power-of-2](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -74,6 +75,7 @@
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -133,6 +135,7 @@
 | [0203-remove-linked-list-elements](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
