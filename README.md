@@ -14,6 +14,7 @@
 | [0135-candy](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -79,12 +80,14 @@
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
@@ -173,6 +176,7 @@
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
