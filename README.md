@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -43,6 +44,7 @@
 | [0231-power-of-two](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0900-reordered-power-of-2](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -63,6 +65,7 @@
 | ------- |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0539-minimum-time-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
@@ -120,6 +123,7 @@
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
