@@ -120,6 +120,7 @@
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -186,6 +187,7 @@
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0647-palindromic-substrings](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
