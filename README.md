@@ -25,6 +25,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -97,6 +98,7 @@
 | [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -169,6 +171,7 @@
 | [0900-reordered-power-of-2](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -198,6 +201,7 @@
 | [0135-candy](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -286,4 +290,8 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
