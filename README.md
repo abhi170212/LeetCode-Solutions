@@ -27,6 +27,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -107,6 +108,7 @@
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
@@ -131,6 +133,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
