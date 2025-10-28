@@ -235,6 +235,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -298,4 +300,12 @@
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
