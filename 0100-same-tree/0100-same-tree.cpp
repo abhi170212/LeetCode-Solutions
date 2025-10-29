@@ -22,6 +22,7 @@ public:
        if(p == nullptr and q == nullptr) return true;
        if( p== nullptr || q == NULL) return false;
        if( p->val != q->val ) return false;
+       //? -> because same values milne par bhi subtree to check karo , 
        bool right = isSameTree(p->right,q->right);
        bool left =isSameTree(p->left,q->left);
 
