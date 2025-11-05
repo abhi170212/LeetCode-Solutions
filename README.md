@@ -259,6 +259,7 @@
 | [0100-same-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -269,6 +270,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0404-sum-of-left-leaves](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 ## Combinatorics
@@ -313,6 +315,7 @@
 | [0100-same-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,4 +323,5 @@
 | [0100-same-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
