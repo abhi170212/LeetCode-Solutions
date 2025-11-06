@@ -126,6 +126,7 @@
 | [0038-count-and-say](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0015-3sum](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
