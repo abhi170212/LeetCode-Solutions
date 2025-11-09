@@ -53,6 +53,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -110,6 +111,7 @@
 | [0682-baseball-game](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/abhishek02122002/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
